@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Carlo</title>
+  <title>test-work</title>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -17,11 +17,11 @@
     <section class="card">
 
       <div class="avatar-wrap">
-        <img src="594133cd237803193eef4c2184d8ebca.jpg" alt="Carlo">
+        <img src="594133cd237803193eef4c2184d8ebca.jpg" alt="test-work">
       </div>
 
-      <h1 class="name">Carlo</h1>
-      <p class="subtitle">тут все мои контакты</p>
+      <h1 class="name">test-work</h1>
+      <p class="subtitle">Пиши сюда</p>
 
       <div class="links">
         <a href="https://t.me/CarloLitvinenko" target="_blank">Telegram</a>
